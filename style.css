@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(215, 215, 215);
+
+    border: 1px solid red;
+}
+div.container{
+    width: 96vw;
+    height: 100vh;
+    margin-top: 2vh;
+
+    border: 1px solid yellow;
+}
